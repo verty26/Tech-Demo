@@ -9,7 +9,7 @@ public class InventoryTile : MonoBehaviour
 
     private void Update()
     {
-        if (IsOccupied)
+        if (IsOccupied)//FOR DEBUG PURPOSES
         {
             GetComponent<Image>().color = Color.red;
         }

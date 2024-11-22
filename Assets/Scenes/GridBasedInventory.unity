@@ -3972,7 +3972,11 @@ MonoBehaviour:
       m_Calls: []
   m_text: 'Drag to move items
 
-    Press "R" while dragging to rotate items.'
+    Press "R" while dragging to rotate items.
+
+
+    This
+    inventory can be transformed into traditional inventory style aswell.'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 0aea597c7cd8b8b45a5166ee6ee79feb, type: 2}
   m_sharedMaterial: {fileID: 7259224281429395124, guid: 0aea597c7cd8b8b45a5166ee6ee79feb,

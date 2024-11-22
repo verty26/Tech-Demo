@@ -26,4 +26,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/GridBasedInventory.unity
     guid: 7b3f18d04c874964d924a03b86fbef73
+  - enabled: 1
+    path: Assets/Scenes/FPSMovement.unity
+    guid: b4d4510469771b1419b662f9777d5425
+  - enabled: 1
+    path: Assets/Scenes/InteractionSystem.unity
+    guid: 0e29fe597137f844e86d57a55eb2f4c7
   m_configObjects: {}
