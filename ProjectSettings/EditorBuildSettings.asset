@@ -32,4 +32,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/InteractionSystem.unity
     guid: 0e29fe597137f844e86d57a55eb2f4c7
+  - enabled: 1
+    path: Assets/Scenes/GameFeel.unity
+    guid: 662ff18f466f63b43b20c0f9cb6a984d
+  - enabled: 1
+    path: Assets/CarTest/Assets/Scenes/CarTest.unity
+    guid: 4c9ab9fac3da24b4bbd76507eafbbfcc
+  - enabled: 1
+    path: Assets/Scenes/ModularGunSystem.unity
+    guid: 0f1486a841ef9bf4680e86196fae2bd6
   m_configObjects: {}
