@@ -532,7 +532,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 72834354}
         m_TargetAssemblyTypeName: NumberCounter, Assembly-CSharp
-        m_MethodName: IncreaseFirstButton
+        m_MethodName: IncreaseSecondButton
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
